@@ -1,0 +1,11 @@
+Ofrece a los desarrolladores una experiencia de alto nivel y un elevado rendimiento y escalabilidad de las aplicaciones. Ofrece una plataforma completa para el desarrollo de sitios y aplicaciones web, tanto para la parte del backend como del frontend.
+Dispone de módulos para el desarrollo de todas las partes comunes y habituales de las aplicaciones, como cuentas de usuario, seguridad, trabajo con vistas, bases de datos con ORM y otras interfaces de acceso, envío de emails y notificaciones de diversos tipos, acceso al sistema de archivos con capa de abstracción, etc.
+
+Ventajas
+Es de Código abierto u open source.
+Reducción de costos y tiempos en el desarrollo y mantenimiento. 
+Comunidad extremadamente activa y en continuo crecimiento.
+La documentación existente es sencilla y muy completa, sobre todo en el sitio oficial.
+Facilita el manejo de ruteo de nuestra aplicación.
+Generación de url amigables lo que hace más fácil el mantenimiento de un sitio web.
+Desarrollo rápido
